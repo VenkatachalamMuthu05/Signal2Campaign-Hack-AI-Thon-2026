@@ -1,0 +1,16 @@
+TEAM NAME: Code Titans
+CHALLENGE TRACK: Challenge 2: Signal to Campaign
+PROJECT NAME: Signal2Campaign AI
+TAGLINE: From Signal to Revenue in 90 Seconds.
+
+TEAM CAPTAIN:
+- Name: Venkatachalam Muthu
+- Email: vemuthu@deloitte.com
+- GitHub: https://github.com/VenkatachalamMuthu05/Signal2Campaign-Hack-AI-Thon-2026
+
+TEAM MEMBERS:
+1. Rohith, V - Role : Full Stack Developer - rohv@deloitte.com
+2. Munish Mani - Role : Frontend Developer - mumani@deloitte.com
+
+SUBMISSION DATE: 28-06-2026
+PHASE: Week 1 - Discovery & Design
